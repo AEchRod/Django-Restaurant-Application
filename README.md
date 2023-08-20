@@ -2,6 +2,8 @@
 
 This is a Django project that demonstrates a simple web application for booking and displaying a menu. It includes views to showcase basic usage of Django's functionality, such as rendering templates, processing forms, and interacting with models.
 
+This project was developed as part of the Meta Backend developer professional certificate.
+
 ## Project Structure
 
 The project consists of the following main components:
@@ -38,6 +40,6 @@ Individual menu items can be viewed by clicking on their respective links on the
 ## Getting Started
 
 1. Clone this repository to your local machine.
-2. Install the required dependencies using the command: `pip install -r requirements.txt`.
+2. Install the required packages.
 3. Run the Django development server: `python manage.py runserver`.
 4. Access the project in your web browser at `http://localhost:8000/`.
